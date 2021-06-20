@@ -13,6 +13,7 @@ We worked on two of the google cola notebooks to get the vine analysis. First we
 <img width="1440" alt="Screen Shot 2021-06-20 at 3 11 36 PM" src="https://user-images.githubusercontent.com/79673185/122686657-4e366800-d1e0-11eb-9487-0d89382c5b69.png">
 <img width="1440" alt="Screen Shot 2021-06-20 at 3 12 04 PM" src="https://user-images.githubusercontent.com/79673185/122686673-7625cb80-d1e0-11eb-9f16-c589816a2744.png">
 <img width="1440" alt="Screen Shot 2021-06-20 at 3 12 19 PM" src="https://user-images.githubusercontent.com/79673185/122686678-7aea7f80-d1e0-11eb-8f49-a28c4cf91fca.png">
+<img width="1440" alt="Screen Shot 2021-06-20 at 4 02 28 PM" src="https://user-images.githubusercontent.com/79673185/122686826-5511aa80-d1e1-11eb-9003-22e060810097.png">
 
 
 
@@ -23,6 +24,8 @@ Now, the vine review analysis we need to get the total number of reviews, the nu
 
 
 <img width="1440" alt="Screen Shot 2021-06-20 at 3 46 18 PM" src="https://user-images.githubusercontent.com/79673185/122686725-ba18d080-d1e0-11eb-861a-ca4612bfb6e2.png">
+<img width="1355" alt="Screen Shot 2021-06-20 at 4 02 49 PM" src="https://user-images.githubusercontent.com/79673185/122686823-4aefac00-d1e1-11eb-8c8e-aac35a5292fe.png">
+
 
 
 # Summary
